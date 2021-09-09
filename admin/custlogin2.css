@@ -1,0 +1,13 @@
+.forgtpas{
+	position: absolute;
+	top: 315px;
+	left: 250px;
+	text-decoration: none;
+	color: grey;
+	font-family: cursive;
+}
+.forgtpas:hover{
+	color: silver;
+	font-weight: bold;
+	font-family: all;
+}
